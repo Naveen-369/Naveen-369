@@ -36,6 +36,10 @@
   <a href="https://www.linkedin.com/in/naveen-kumar-35393a246/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
   </a>
+
+  <a href="https://www.kaggle.com/naveenkumar3690" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
