@@ -8,11 +8,11 @@
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="72" alt="c logo" />
-<img width="30" style="margin: 10px;"/>
+<img width="30" style="margin: 100px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="72" alt="cplusplus logo" />
-<img width="30" style="margin: 10px;" />
+<img width="30" style="margin: 100px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="72" alt="csharp logo" />
-<img width="30" style="margin: 10px;"/>
+<img width="30" style="margin: 100px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" alt="python logo" />
 <img width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="72" alt="java logo" />
