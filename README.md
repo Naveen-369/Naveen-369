@@ -36,6 +36,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="72" alt="MongoDB logo" />
 <img width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="72" alt="MySQL logo" />
+<img width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="72" alt="Pandas logo" />
+<img width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" height="72" alt="Nodemon logo" />
 </div>
 
 ###
