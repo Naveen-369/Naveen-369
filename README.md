@@ -32,13 +32,13 @@
 
 ###
 <br><br>
-<div align="right">
+<div align="right" style="display:'flex';justify-content:'space-evenly'">
   <a href="https://www.linkedin.com/in/naveen-kumar-35393a246/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
   </a>
 
   <a href="https://www.kaggle.com/naveenkumar3690" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="60" alt="linkedin logo"  />
   </a>
 </div>
 
