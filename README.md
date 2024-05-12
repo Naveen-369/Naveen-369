@@ -30,6 +30,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="wordpress logo" />
 <img width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" alt="Kaggle logo" />
+<img width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="NodeJS logo" />
+<img width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB logo" />
 
 </div>
 
