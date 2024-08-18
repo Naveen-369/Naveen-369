@@ -52,11 +52,9 @@
   <a href="https://www.kaggle.com/naveenkumar3690" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="60" alt="linkedin logo" />
   </a>
-  Thank you
 </div>
 
 ###
 
 
-![Visitor Count](https://profile-counter.glitch.me/Naveen-369/count.svg)
 
